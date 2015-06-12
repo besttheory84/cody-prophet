@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 <?php if(is_page(62)) { ?>
 <aside id="sidebar clearfix" role="complementary" style="margin-top: 100px;">
 <?php } else { ?>
 <aside id="sidebar clearfix" role="complementary">    
 <?php } ?>    
+=======
+<aside id="sidebar" role="complementary">
+>>>>>>> origin/master
 <?php if ( is_active_sidebar( 'primary-widget-area' ) ) : ?>
 <div id="primary" class="widget-area">
 <ul class="xoxo">

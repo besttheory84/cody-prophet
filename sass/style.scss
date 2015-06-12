@@ -29,6 +29,7 @@ body {
     }
     
     &.page-id-11 {
+<<<<<<< HEAD
         background: $black url(images/show-bg.jpg) top center no-repeat;    
     }
     
@@ -38,16 +39,26 @@ body {
     
     &.blog {
         background: $black url(images/blog-bg.jpg) top center no-repeat;      
+=======
+         background: $black url(images/show-bg.jpg) top center no-repeat;    
+    }
+    
+    &.page-id-15 {
+         background: $black url(images/testimonies-bg.jpg) top center no-repeat;    
+>>>>>>> origin/master
     }
     
     a {
         @include hover;
         text-decoration: none;   
     }
+<<<<<<< HEAD
     
     @media all and (max-width: 767px) {
         background: $black url(images/about-bg.jpg) top center no-repeat !important;
     }
+=======
+>>>>>>> origin/master
 }
 
 .clearfix:after {
@@ -61,7 +72,11 @@ body {
 
 .container {
     width: 96%;
+<<<<<<< HEAD
     max-width: 940px;
+=======
+    max-width: 960px;
+>>>>>>> origin/master
     margin: 0 auto;
 }
 
@@ -71,12 +86,15 @@ body {
     img {
         display: block;
         margin: 0 auto;
+<<<<<<< HEAD
         
         @media all and (max-width: 980px) {
             width: 100%;
             max-width: 768px;
             height: auto;
         }
+=======
+>>>>>>> origin/master
     }
 }
 
@@ -117,6 +135,7 @@ nav.menu {
 #content {
     
     &.home-content {
+<<<<<<< HEAD
         width: 50%;  
         
         @media all and (max-width: 767px) {
@@ -130,6 +149,9 @@ nav.menu {
         @media all and (max-width: 767px) {
             padding-top: 20px;    
         }
+=======
+        width: 50%;    
+>>>>>>> origin/master
     }
     
     .entry-title {
@@ -142,6 +164,7 @@ nav.menu {
             color: $pistachio;
             margin-top: 50px;
         }
+<<<<<<< HEAD
         
         @media all and (max-width: 767px) {
             text-align: center;
@@ -152,6 +175,12 @@ nav.menu {
 }
 
 .button, .wolf-show-action a {
+=======
+    }
+}
+
+.button {
+>>>>>>> origin/master
     @include hover;
     border-radius: 3px;
     padding: 10px 20px;
@@ -177,6 +206,7 @@ nav.menu {
             border-color: $brown;    
         }
     }
+<<<<<<< HEAD
     
     @media all and (max-width: 767px) {
         display: block;
@@ -220,6 +250,8 @@ nav.menu {
     margin-bottom: 15px;
     border-bottom: 1px solid $gold;
     display: block;
+=======
+>>>>>>> origin/master
 }
 
 .widget {
@@ -233,11 +265,15 @@ nav.menu {
     text-align: center;
     
     &:nth-child(2) {
+<<<<<<< HEAD
         margin: 0 20px; 
         
         @media all and (max-width: 979px) {
             margin: 0 auto 25px;    
         }
+=======
+        margin: 0 30px;    
+>>>>>>> origin/master
     }
     
     .widget-top {
@@ -276,17 +312,24 @@ nav.menu {
             max-width: 55%;
         }
     }
+<<<<<<< HEAD
 
     @media all and (max-width: 979px) {
         margin: 0 auto 25px; 
         float: none;
     }
+=======
+>>>>>>> origin/master
 }
 
 .connect {
     font-size: 18px;
     display: inline-block;
+<<<<<<< HEAD
     width: 37.6%;
+=======
+    width: 42.6%;
+>>>>>>> origin/master
     float: left;
     
     a {
@@ -357,10 +400,13 @@ footer {
         display: block;
         float: left;
         margin: 0 30px 0 0;
+<<<<<<< HEAD
         
         @media all and (max-width: 767px) {
             display: none;    
         }
+=======
+>>>>>>> origin/master
     }
 }
 
@@ -374,12 +420,15 @@ footer {
         margin-left: 15px;
         border-radius: 0 0 15px 15px;
         
+<<<<<<< HEAD
         @media all and (max-width: 980px) {
             float: none;
             width: 100%;
             margin-left: 0;
         }
         
+=======
+>>>>>>> origin/master
         .inner-about-content {
             border: 3px solid #bb997b;  
             border-top: 0;
@@ -389,12 +438,15 @@ footer {
             max-width: 460px;
             margin: 0 auto 30px;
             color: $black;
+<<<<<<< HEAD
             
             @media all and (max-width: 980px) {
                 padding-top: 20px; 
                 max-width: none;
                 width: 86%;
             }
+=======
+>>>>>>> origin/master
         }
     }
     
@@ -406,16 +458,20 @@ footer {
         width: 100%;
         max-width: 773px;
         height: 125px;
+<<<<<<< HEAD
         
         @media all and (max-width: 980px) {
             display: none;    
         }
+=======
+>>>>>>> origin/master
     }
     
     .pretty-thing {
         display: block;
         margin: -35px auto 15px;
     }
+<<<<<<< HEAD
 }
 
 aside {
@@ -446,25 +502,47 @@ aside {
         clear: both;
         height: 0; 
         padding-top: 30px;
+=======
+    
+    #sidebar {
+        width: 100%;
+        max-width: 300px;
+        float: right;
+        margin-top: 100px;
+        
+        ul {
+            padding: 0;    
+        
+            li {
+                list-style-type: none;    
+            }
+        }
+>>>>>>> origin/master
     }
 }
 
 .show-header {
     margin-top: 260px;
+<<<<<<< HEAD
     
     @media all and (max-width: 767px) {
         margin-top: 20px;    
     }
+=======
+>>>>>>> origin/master
 }
 
 .show-content {
     width: 94%;
     max-width: 380px;
+<<<<<<< HEAD
     
     @media all and (max-width: 767px) {
         max-width: none;
         width: 100%;
     }
+=======
+>>>>>>> origin/master
 }
 
 .show {
@@ -516,6 +594,7 @@ aside {
                 color: $pistachio;
             }
         }
+<<<<<<< HEAD
         
         @media all and (max-width: 979px) {
             width: 94%;
@@ -749,6 +828,18 @@ aside {
             height: 0;   
         }
     }
+=======
+    }
+    
+    &:nth-child(2),
+    &:nth-child(5) {
+        margin: 20px 30px 0;
+    }
+}
+
+.testimonies {
+    margin-top: 470px;    
+>>>>>>> origin/master
 }
 
 .wpt_widget_content {
@@ -781,7 +872,11 @@ aside {
         
         .entry-title {
             line-height: 14px !important;
+<<<<<<< HEAD
             margin: 3px 0 0 0 !important;
+=======
+            margin: -10px 0 0 0 !important;
+>>>>>>> origin/master
         }
         
         a {
@@ -795,6 +890,7 @@ aside {
         color: #fff !important;    
     }
     
+<<<<<<< HEAD
 }
 
 .wpt_widget_content .tab-content li {
@@ -857,4 +953,6 @@ aside {
 
 .wolf-show-entry-link {
     line-height: 16px;    
+=======
+>>>>>>> origin/master
 }

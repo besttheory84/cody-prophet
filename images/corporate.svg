@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -23,3 +24,30 @@
 		C90.557,69.118,89.364,67.271,87.575,67.271"/>
 </g>
 </svg>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="90.042px" height="118.104px" viewBox="0 0 90.042 118.104" enable-background="new 0 0 90.042 118.104"
+	 xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="90.042" height="118.104"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#AC884F" d="M60.521,15.5c0,8.56-6.94,15.5-15.5,15.5c-8.561,0-15.5-6.94-15.5-15.5
+		c0-8.56,6.94-15.5,15.5-15.5C53.581,0,60.521,6.94,60.521,15.5"/>
+	<path clip-path="url(#SVGID_2_)" fill="#AC884F" d="M72.557,60.833l1.887-14.828c0.755-5.928-3.864-11.172-9.84-11.172H50.097
+		c0,0.029,0.008,0.055,0.008,0.083c0,1.907-1.063,3.549-2.616,4.419l1.474,21.498H72.557z"/>
+	<path clip-path="url(#SVGID_2_)" fill="#AC884F" d="M17.486,60.833H41.08l1.474-21.498c-1.553-0.87-2.616-2.512-2.616-4.419
+		c0-0.028,0.008-0.054,0.008-0.083H25.438c-5.976,0-10.595,5.244-9.84,11.172L17.486,60.833z"/>
+	<rect x="29.684" y="85.559" clip-path="url(#SVGID_2_)" fill="#AC884F" width="30.673" height="32.545"/>
+	<path clip-path="url(#SVGID_2_)" fill="#AC884F" d="M87.575,67.271H2.468c-1.79,0-2.983,1.847-2.247,3.478l15.057,33.376
+		c0.398,0.883,1.277,1.451,2.246,1.451h8.705V82.104h37.584v23.472h8.704c0.969,0,1.849-0.568,2.247-1.451L89.82,70.749
+		C90.557,69.118,89.364,67.271,87.575,67.271"/>
+</g>
+</svg>
+>>>>>>> origin/master

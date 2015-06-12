@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -38,3 +39,45 @@
 		V34.432z"/>
 </g>
 </svg>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="55.584px" height="55.583px" viewBox="0 0 55.584 55.583" enable-background="new 0 0 55.584 55.583" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="55.583" height="55.583"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#AC884F" d="M27.792,55.583C12.467,55.583,0,43.116,0,27.792C0,12.467,12.467,0,27.792,0
+		c15.324,0,27.792,12.467,27.792,27.792C55.584,43.116,43.116,55.583,27.792,55.583 M27.792,4C14.673,4,4,14.673,4,27.792
+		C4,40.91,14.673,51.583,27.792,51.583S51.584,40.91,51.584,27.792C51.584,14.673,40.911,4,27.792,4"/>
+	<path clip-path="url(#SVGID_2_)" fill="#AC884F" d="M27.792,47.833c-11.051,0-20.042-8.991-20.042-20.041
+		c0-11.051,8.991-20.042,20.042-20.042s20.042,8.991,20.042,20.042C47.834,38.842,38.843,47.833,27.792,47.833 M27.792,9.75
+		c-9.948,0-18.042,8.093-18.042,18.042c0,9.948,8.094,18.041,18.042,18.041c9.948,0,18.042-8.093,18.042-18.041
+		C45.834,17.843,37.74,9.75,27.792,9.75"/>
+	<rect x="25.167" y="1.916" clip-path="url(#SVGID_2_)" fill="#AC884F" width="5" height="6.875"/>
+	
+		<rect x="9.072" y="8.842" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -5.2933 11.7795)" clip-path="url(#SVGID_2_)" fill="#AC884F" width="5.001" height="6.875"/>
+	<rect x="1.917" y="25.791" clip-path="url(#SVGID_2_)" fill="#AC884F" width="6.875" height="5"/>
+	
+		<rect x="9.779" y="40.573" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -10.1578 83.814)" clip-path="url(#SVGID_2_)" fill="#AC884F" width="5.001" height="6.875"/>
+	<rect x="25.792" y="46.791" clip-path="url(#SVGID_2_)" fill="#AC884F" width="5" height="6.875"/>
+	
+		<rect x="41.511" y="39.866" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 105.7522 42.8034)" clip-path="url(#SVGID_2_)" fill="#AC884F" width="5.001" height="6.876"/>
+	<rect x="46.792" y="24.791" clip-path="url(#SVGID_2_)" fill="#AC884F" width="6.875" height="5"/>
+	
+		<rect x="40.804" y="8.135" transform="matrix(0.7071 0.7072 -0.7072 0.7071 20.8687 -27.2325)" clip-path="url(#SVGID_2_)" fill="#AC884F" width="5" height="6.875"/>
+	<path clip-path="url(#SVGID_2_)" fill="#AC884F" d="M26.957,28.613c-2.557-1.696-4.513-2.818-4.513-6.418
+		c0-2.296,1.252-4.461,4.435-4.853v-1.643h1.774v1.643c2.844,0.339,4.174,1.826,4.253,3.601c0.026,0.495,0.104,0.965,0.104,1.461
+		v0.182h-3.026c0-1.409-0.209-2.295-1.435-2.635v5.192c2.713,1.383,4.852,3.339,4.879,6.025v0.184c0,3.47-1.383,5.191-4.775,5.688
+		v2.845h-1.774v-2.767c-3.418-0.287-4.722-2.557-4.722-5.636c0-0.208,0.026-0.417,0.026-0.626h3.131
+		c0.026,1.696-0.079,3.131,1.643,3.575V28.613z M26.957,19.951c-0.913,0.131-1.382,0.992-1.382,1.957
+		c0,1.304,0.678,1.957,1.382,2.713V19.951z M28.549,34.432c0.887-0.262,1.564-1.019,1.564-2.452c0-1.305-0.913-2.401-1.564-2.818
+		V34.432z"/>
+</g>
+</svg>
+>>>>>>> origin/master

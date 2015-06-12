@@ -1,5 +1,9 @@
         <?php if ( is_active_sidebar( 'footer-widget-area' ) ) : ?>
+<<<<<<< HEAD
         <div class="widget clearfix footer-widgets">
+=======
+        <div class="widget clearfix">
+>>>>>>> origin/master
             <?php dynamic_sidebar( 'footer-widget-area' ); ?>
         </div>
         <?php endif; ?>
